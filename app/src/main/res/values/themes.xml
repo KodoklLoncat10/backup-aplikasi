@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!--
+    Base application theme. This is the theme used by the OS for the window,
+    and is the theme passed to postSplashScreenTheme. It should be a simple, non-M3 theme
+    to avoid conflicts in a Compose-first project.
+    -->
+    <style name="Theme.MelanoScan_new" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <!-- The theme for the splash screen. -->
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <!-- Set the splash screen background. -->
+        <item name="windowSplashScreenBackground">@android:color/white</item>
+        <!-- Set the splash screen icon. -->
+        <item name="windowSplashScreenAnimatedIcon">@drawable/logo_melanoscan</item>
+        <!-- Set the theme to be applied after the splash screen is dismissed. -->
+        <item name="postSplashScreenTheme">@style/Theme.MelanoScan_new</item>
+    </style>
+</resources>

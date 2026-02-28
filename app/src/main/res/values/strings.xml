@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">MelanoScan</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_scan">Scan</string>
+    <string name="nav_history">History</string>
+    <string name="nav_info">Info</string>
+    <string name="nav_about">About</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Home Screen -->
+    <string name="home_title">Early Detection, Better Protection.</string>
+    <string name="home_subtitle">Use our AI scanner for an initial analysis of your skin lesions.</string>
+    <string name="home_start_scan">Start Scan</string>
+    <string name="home_skin_health_tips">Skin Health Tips</string>
+    <string name="tip_1_title">Use Sunscreen</string>
+    <string name="tip_1_desc">Use sunscreen every day to protect your skin.</string>
+    <string name="tip_2_title">Check Your Skin</string>
+    <string name="tip_2_desc">Perform a routine skin check every month.</string>
+    <string name="tip_3_title">Avoid the Sun</string>
+    <string name="tip_3_desc">Avoid direct sunlight between 10 AM and 4 PM.</string>
+
+    <!-- Scan Screen -->
+    <string name="scan_button_camera">Camera</string>
+    <string name="scan_button_gallery">Gallery</string>
+    <string name="scan_select_image">Select an image to start</string>
+    <string name="scan_analyze_now">Analyze Now</string>
+
+    <!-- Result Screen -->
+    <string name="result_title">Analysis Result</string>
+    <string name="result_confidence">Confidence</string>
+    <string name="result_probability_breakdown">Probability Breakdown</string>
+    <string name="result_medical_advice">Medical Advice</string>
+    <string name="result_back_to_scan">Back to Scan</string>
+    <string name="result_save_to_gallery">Save Result</string>
+    <string name="result_saving">Saving...</string>
+    <string name="result_saved_to_gallery">Result saved to gallery!</string>
+    <string name="result_failed_to_save">Failed to save</string>
+    <string name="result_malignant">Malignant</string>
+    <string name="result_benign">Benign</string>
+    <string name="result_non_cancer">Non-Cancer</string>
+    <string name="result_invalid_object">Object Not Recognized</string>
+    <string name="result_failed_to_load">Failed to load image</string>
+    <string name="result_unclear_image">Image unclear or not recognized. Please take a clearer photo of the specific skin area.</string>
+    <string name="result_analysis_failed">Analysis failed. Please try again with a different image.</string>
+    <string name="advice_malignant">High suspicion of malignancy. Immediately consult a dermatologist for a biopsy.</string>
+    <string name="advice_benign">The lesion appears benign. However, watch for any future changes in shape, color, or size.</string>
+    <string name="advice_non_cancer">The result indicates normal/non-cancerous skin. Keep using sunscreen for protection.</string>
+    <string name="warning_low_confidence_benign">Result is inconclusive. Please ensure the skin area is clearly visible and in focus.</string>
+
+
+    <!-- History Screen -->
+    <string name="history_empty">No history yet.</string>
+    <string name="delete">Delete</string>
+    <string name="clear_all">Clear All</string>
+    <string name="confirm_clear_all">Are you sure you want to delete all history?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_language">Language</string>
+    <string name="settings_language_en">English</string>
+    <string name="settings_language_id">Indonesian</string>
+
+    <!-- About Screen -->
+    <string name="about_subtitle">MelanoScan is an innovative skin cancer screening assistant powered by Deep Learning (ResNet50). Developed by the young researchers of SMA Progresif Bumi Shalawat, this app aims to provide accessible early detection for skin abnormalities.</string>
+    <string name="about_dev_team">The Developer Team</string>
+    <string name="about_lead_dev">Lead Developer &amp; AI Researcher</string>
+    <string name="about_supervisor">Research Supervisor</string>
+    <string name="about_collaboration">Developed by Research Team Progresif Bumi Shalawat Senior High School</string>
+</resources>

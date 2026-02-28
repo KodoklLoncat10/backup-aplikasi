@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">MelanoScan</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Beranda</string>
+    <string name="nav_scan">Pindai</string>
+    <string name="nav_history">Riwayat</string>
+    <string name="nav_info">Info</string>
+    <string name="nav_about">Tentang</string>
+    <string name="nav_settings">Pengaturan</string>
+
+    <!-- Home Screen -->
+    <string name="home_title">Deteksi Dini, Perlindungan Lebih Baik.</string>
+    <string name="home_subtitle">Gunakan pemindai AI kami untuk analisis awal lesi kulit Anda.</string>
+    <string name="home_start_scan">Mulai Pindai</string>
+    <string name="home_skin_health_tips">Tips Kesehatan Kulit</string>
+    <string name="tip_1_title">Gunakan Tabir Surya</string>
+    <string name="tip_1_desc">Gunakan tabir surya setiap hari untuk melindungi kulit Anda.</string>
+    <string name="tip_2_title">Periksa Kulit Anda</string>
+    <string name="tip_2_desc">Lakukan pemeriksaan kulit secara rutin setiap bulan.</string>
+    <string name="tip_3_title">Hindari Matahari</string>
+    <string name="tip_3_desc">Hindari sinar matahari langsung antara jam 10 pagi dan 4 sore.</string>
+
+    <!-- Scan Screen -->
+    <string name="scan_button_camera">Kamera</string>
+    <string name="scan_button_gallery">Galeri</string>
+    <string name="scan_select_image">Pilih gambar untuk memulai</string>
+    <string name="scan_analyze_now">Analisis Sekarang</string>
+
+    <!-- Result Screen -->
+    <string name="result_title">Hasil Analisis</string>
+    <string name="result_confidence">Tingkat Keyakinan</string>
+    <string name="result_probability_breakdown">Rincian Probabilitas</string>
+    <string name="result_medical_advice">Saran Medis</string>
+    <string name="result_back_to_scan">Kembali ke Pindai</string>
+    <string name="result_save_to_gallery">Simpan Hasil</string>
+    <string name="result_saving">Menyimpan...</string>
+    <string name="result_saved_to_gallery">Hasil disimpan ke galeri!</string>
+    <string name="result_malignant">Ganas</string>
+    <string name="result_benign">Jinak</string>
+    <string name="result_non_cancer">Bukan Kanker</string>
+    <string name="advice_malignant">Kecurigaan tinggi keganasan. Segera hubungi dokter spesialis kulit (Dermatologis) untuk biopsi.</string>
+    <string name="advice_benign">Lesi tampak jinak. Namun, perhatikan jika ada perubahan bentuk, warna, atau ukuran di masa depan.</string>
+    <string name="advice_non_cancer">Hasil menunjukkan kulit normal/bukan kanker. Tetap gunakan tabir surya untuk perlindungan.</string>
+
+    <!-- History Screen -->
+    <string name="history_empty">Belum ada riwayat.</string>
+    <string name="delete">Hapus</string>
+    <string name="clear_all">Hapus Semua</string>
+    <string name="confirm_clear_all">Apakah Anda yakin ingin menghapus semua riwayat?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">Pengaturan</string>
+    <string name="settings_language">Bahasa</string>
+    <string name="settings_language_en">Inggris</string>
+    <string name="settings_language_id">Indonesia</string>
+
+    <!-- About Screen -->
+    <string name="about_subtitle">MelanoScan adalah asisten skrining kanker kulit inovatif yang didukung oleh Deep Learning (ResNet50). Dikembangkan oleh para peneliti muda SMA Progresif Bumi Shalawat, aplikasi ini bertujuan untuk menyediakan deteksi dini yang dapat diakses untuk kelainan kulit.</string>
+    <string name="about_dev_team">Tim Pengembang</string>
+    <string name="about_lead_dev">Pengembang Utama &amp; Peneliti AI</string>
+    <string name="about_supervisor">Pembimbing Penelitian</string>
+    <string name="about_collaboration">Dikembangkan oleh Tim Peneliti SMA Progresif Bumi Shalawat</string>
+</resources>
